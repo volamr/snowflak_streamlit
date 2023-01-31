@@ -11,4 +11,4 @@ streamlit.text('Kale, Spinach & Rocket Smotthie')
 streamlit.text('🥚Hard-Boiled Free-Range Egg')
 
 
-Streamlit.header('🍌🍍Create Your Own Smoothie🥕🍒🍏🍉')
+streamlit.header('🍌🍍Create Your Own Smoothie🥕🍒🍏🍉')
